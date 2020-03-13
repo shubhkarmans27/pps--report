@@ -3,10 +3,11 @@
 -----
 Submitted By : Shubhkarman Singh
 
-CRN: 1916072
+College Roll No: 1916072
 
-URN: 1905154
+University Roll No: 1905154
 
 Branch: Electrical Engneering (B)
 
 Batch : 2019-23
+Section : B
