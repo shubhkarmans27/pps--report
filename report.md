@@ -1,4 +1,4 @@
-![download.jpeg](https://github.com/shubhkarmans27/pps--report/blob/master/download.jpeg)
+![college.jpeg](https://github.com/shubhkarmans27/pps--report/blob/master/college.jpeg)
 # Programmming For Problem Solving(ESC-105)
 -----
 Submitted By : Shubhkarman Singh
